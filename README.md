@@ -1,4 +1,4 @@
-# LivFit
+# flaskApp
 A simple CRUD web application base on python and flask.
 
 Features:
